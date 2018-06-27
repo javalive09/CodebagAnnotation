@@ -12,5 +12,4 @@ public class Constant {
     public static final String CLASS_NAME = "CodeBag$ClassCenter";
     public static final String METHOD_NAME = "load";
 
-
 }

@@ -9,7 +9,7 @@ publish {
     userOrg = 'javalive09'//bintray.com用户名
     groupId = 'com.javalive09.annotation'//包名
     artifactId = 'annotation'//项目名称
-    publishVersion = '1.0.2'//版本号
+    publishVersion = '1.0.3'//版本号
     desc = 'simple library for programmer collect code(demo, unit test ...)'//描述
     website = 'https://github.com/javalive09/CodeBag/annotation'//网站
 }
